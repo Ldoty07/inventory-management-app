@@ -1,0 +1,28 @@
+:root {
+  --max: 50rem;
+  --text: #111111;
+  --bg: #fff;
+  --border: #6b696e;
+  --btn: #DFD0B8;
+  --btn-hover: #d3c2a7;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2rem;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+h1 {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}

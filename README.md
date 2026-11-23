@@ -1,2 +1,1 @@
-# inventory-management-app
-App for a small inventory management system
+This app allows users to browse, add, edit, and delete products. Data is stored in and retrieved from a supabase database.
